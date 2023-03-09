@@ -88,7 +88,7 @@ DATABASES = {
         "NAME":"shoppingcart",
         "HOST":"localhost",
         "USER":"root",
-        "PASSWORD":"liveandletlive",
+        "PASSWORD":"saransuresh@1",
         "PORT":"3306"
         
         
